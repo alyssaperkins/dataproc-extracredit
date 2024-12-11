@@ -16,12 +16,20 @@ not a transaction was currently active.  I would also add that an interface is n
 to simplify things for future students I would just remove that entirely and implement this as a class and main files.
 
 ## Expected Code Output
-`$ ./run.sh
-null
-ERROR: PLEASE START A TRANSACTION!
-5
-6
-ERROR: NO DATA TO COMMIT
-ERROR: NO DATA TO ROLLBACK
-null
-null`
+`$ ./run.sh`
+
+`null`
+
+`ERROR: PLEASE START A TRANSACTION!`
+
+`5`
+
+`6`
+
+`ERROR: NO DATA TO COMMIT`
+
+`ERROR: NO DATA TO ROLLBACK`
+
+`null`
+
+`null`
